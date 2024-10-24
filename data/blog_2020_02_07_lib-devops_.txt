@@ -1,0 +1,164 @@
+
+## **Полезная подборка для DevOps инженеров и всех неравнодушных**
+
+
+DevOps\-инженеры «Рексофт» собрали материалы, которые могут быть полезны тем, кто работает в этой сфере или просто желает расширить свой кругозор в IT. Читайте и делитесь с коллегами!
+
+
+
+
+
+
+
+### **Книги**
+
+
+**1\. Философия DevOps. Искусство управления IT \| Дэвис Дженнифер и Дэниелс Кэтрин**
+
+
+Книга рассказывает о технических, культурных и управленческих аспектах DevOps\-культуры. Российские читатели часто критикуют ее за пропаганду политических идей и излишнюю «водянистость», однако это одно из первых изданий, которое систематизирует накопившиеся знания по DevOps для всеобщего использования.
+
+
+**2\. Руководство по DevOps \| Хамбл Джез, Уиллис Джон.**
+
+
+Книга рассказывает об основных принципах DevOps, объясняет как интегрировать операции и разработку, и какие преимущества это дает.
+
+
+**3\. Безопасность разработки в Agile\-проектах \| Белл Л, Брантон\-Сполл М, Смит Р, Бэрд Дж.**
+
+
+Книга рассказывает, как перебросить мост между Agile\-разработкой и традиционными способами управления безопасностью. Предлагает инструменты и методы, которые способны в этом помочь.
+
+
+**4\. Site Reliability Engineering. Надежность и безотказность как в Google \| Бейер Бетси, Джоунс Крис**
+
+
+В книге систематизирован перечень подходов Google к обеспечению надежности технических систем и их автономной безошибочной работы. Организована как сборник статей от разных авторов. Как говорят сами авторы, эта книга — кладезь опыта, накопленного компанией Google за долгие годы, коллективный труд многих выдающихся специалистов.
+
+
+**5\. Kubernetes в действии \| Лукша М**
+
+
+Исчерпывающее руководство, которое рассказывает, как применять Kubernetes для развертывания распределенных контейнеризированных приложений.
+
+
+**И еще несколько книг про DevOps, высокооцененных англоязычной аудиторией:**
+
+
+1\. [The DevOps Adoption Playbook. A Guide to Adopting DevOps in a Multi\-Speed IT Enterprise](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2FDevOps-Adoption-Playbook-Multi-Speed-Enterprise-ebook%2Fdp%2FB01N4OZP7P "https://www.amazon.com/DevOps-Adoption-Playbook-Multi-Speed-Enterprise-ebook/dp/B01N4OZP7P")
+
+
+2\. [The DevOps Handbook: How to Create World\-Class Agility, Reliability, and Security in Technology Organizations](https://vk.com/away.php?to=https%3A%2F%2Fwww.amazon.com%2FDevOps-Handbook-World-Class-Reliability-Organizations%2Fdp%2F1942788002%2Fref%3Dsr_1_1%3Fs%3Dbooks%26amp%3Bie%3DUTF8%26amp%3Bqid%3D1527451471%26amp%3Bsr%3D1-1%26amp%3Bkeywords%3Ddevops "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=sr_1_1?s=books&ie=UTF8&qid=1527451471&sr=1-1&keywords=devops")
+
+
+3\. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://vk.com/away.php?to=https%3A%2F%2Fplay.google.com%2Fstore%2Fbooks%2Fdetails%2FGene_Kim_The_Phoenix_Project%3Fid%3DqaRODgAAQBAJ "https://play.google.com/store/books/details/Gene_Kim_The_Phoenix_Project?id=qaRODgAAQBAJ")
+
+
+### **Видео**
+
+
+**1\. Практики и инструменты DevOps от ITVDN.** Сборник лекций с наглядными презентациями: [https://www.youtube.com/watch?v\=YxSYMRLmwDk\&list\=PLvItDmb0sZw\_xTNDv8Bb1fsivN\_Z\_4oo9](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYxSYMRLmwDk%26amp%3Blist%3DPLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9 "https://www.youtube.com/watch?v=YxSYMRLmwDk&list=PLvItDmb0sZw_xTNDv8Bb1fsivN_Z_4oo9")
+
+
+**2\.** **Канал московского сообщества DevOps.** Видеозаписи встреч и докладов специалистов и другая полезная информация: [https://www.youtube.com/channel/UC\-oN4D4sUut8\-FTcP5Opp\_A](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC-oN4D4sUut8-FTcP5Opp_A "https://www.youtube.com/channel/UC-oN4D4sUut8-FTcP5Opp_A")
+
+
+**3\.** **Видео с DevOpsConf** — профессиональной конференции по интеграции процессов разработки, тестирования и эксплуатации: [https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC1nDIT9thqoFSSxvLyPHF5w "https://www.youtube.com/channel/UC1nDIT9thqoFSSxvLyPHF5w")
+
+
+**4\. Видеозаписи с DevOops**— конференции по DevOps от JUG.ru Group: [https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg/featured](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCjnQreLMbpKsfJwDnHGZLxg%2Ffeatured "https://www.youtube.com/channel/UCjnQreLMbpKsfJwDnHGZLxg/featured")
+
+
+**5\. Видеозаписи с конференций DevSecCon**(на английском языке): [https://www.youtube.com/channel/UCgxhfP2Hi8MQYz6ZkwpLA0A/feed](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCgxhfP2Hi8MQYz6ZkwpLA0A%2Ffeed "https://www.youtube.com/channel/UCgxhfP2Hi8MQYz6ZkwpLA0A/feed")
+
+
+### **Полезные инструменты**
+
+
+**1\. Ansible от Red Hat** — платформа для автоматизации развертывания ПО: [https://www.ansible.com/](https://vk.com/away.php?to=https%3A%2F%2Fwww.ansible.com%2F "https://www.ansible.com/")
+
+
+**2\. Jenkins** — серверная система непрерывной интеграции: [https://jenkins.io/](https://vk.com/away.php?to=https%3A%2F%2Fjenkins.io%2F "https://jenkins.io/")
+
+
+**3\. Docker** — инструмент, облегчающий процесс продвижения кода от стадии разработки до продакшна без каких\-либо заминок: [https://www.docker.com/](https://vk.com/away.php?to=https%3A%2F%2Fwww.docker.com%2F "https://www.docker.com/")
+
+
+**4\. Automic** — сервис предназначен для решения задач по выпуску и оркестрации проектов с помощью Chef, Jenkins и Puppet: [https://www.broadcom.com/products/software/automation?redirect\=automic.com](https://vk.com/away.php?to=https%3A%2F%2Fwww.broadcom.com%2Fproducts%2Fsoftware%2Fautomation%3Fredirect%3Dautomic.com "https://www.broadcom.com/products/software/automation?redirect=automic.com")
+
+
+5\. **Ruxit от Dynatrace** — система для тестирования и оптимизации производительности приложения: [https://www.dynatrace.com/](https://vk.com/away.php?to=https%3A%2F%2Fwww.dynatrace.com%2F "https://www.dynatrace.com/")
+
+
+### **Интересные статьи**
+
+
+1\. 10 популярных вопросов и ответов на DevOps собеседовании: [https://proglib.io/p/devops\-questions/](https://vk.com/away.php?to=https%3A%2F%2Fproglib.io%2Fp%2Fdevops-questions%2F "https://proglib.io/p/devops-questions/")
+
+
+**Популярные материалы на английском:**
+
+
+2\. DevOps Roadmap: [https://roadmap.sh/devops](https://vk.com/away.php?to=https%3A%2F%2Froadmap.sh%2Fdevops "https://roadmap.sh/devops")
+
+
+3\. Kubernetes Failure Stories: [https://github.com/hjacobs/kubernetes\-failure\-stories](https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2Fhjacobs%2Fkubernetes-failure-stories "https://github.com/hjacobs/kubernetes-failure-stories")
+
+
+4\. TECHNOLOGY RADAR: [https://www.thoughtworks.com/radar](https://vk.com/away.php?to=https%3A%2F%2Fwww.thoughtworks.com%2Fradar "https://www.thoughtworks.com/radar")
+
+
+5\. A curated list for awesome kubernetes sources: [https://github.com/ramitsurana/awesome\-kubernetes](https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2Framitsurana%2Fawesome-kubernetes "https://github.com/ramitsurana/awesome-kubernetes")
+
+
+### **Курсы**
+
+
+1\. Основы GIT: [https://stepik.org/course/3145/syllabus](https://vk.com/away.php?to=https%3A%2F%2Fstepik.org%2Fcourse%2F3145%2Fsyllabus "https://stepik.org/course/3145/syllabus")
+
+
+2\. Workshop “Introduction to Containers”: [https://container.training/intro\-selfpaced.yml.html\#1](https://vk.com/away.php?to=https%3A%2F%2Fcontainer.training%2Fintro-selfpaced.yml.html%231 "https://container.training/intro-selfpaced.yml.html#1")
+
+
+3\. Workshop «Deploying and Scaling Microservices with Docker and Kubernetes»: [https://container.training/kube\-selfpaced.yml.html\#1](https://vk.com/away.php?to=https%3A%2F%2Fcontainer.training%2Fkube-selfpaced.yml.html%231 "https://container.training/kube-selfpaced.yml.html#1")
+
+
+### **Подкасты**
+
+
+1\. IT\-подкасты на русском языке: [https://github.com/avevlad/russia\-it\-podcast](https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2Favevlad%2Frussia-it-podcast "https://github.com/avevlad/russia-it-podcast")
+
+
+2\. Simple bite\-sized DevOps Screencasts: [https://sysadmincasts.com/](https://vk.com/away.php?to=https%3A%2F%2Fsysadmincasts.com%2F "https://sysadmincasts.com/")
+
+
+Изображение: NicoElNino/Shutterstock.com
+
+
+[Все новости](/news/ "Новости")### ЕЩЕ ПУБЛИКАЦИИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2021/08/prev.jpg)](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)## [«Только в «Рексофт» я поняла, что такое настоящая работа в режиме многозадачности»](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)
+
+09\.08\.2021[Блог](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)**,** [Интервью](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)[Читать далее](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2020/06/hoTXBHE13T4.jpg)](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)## [Путь от сисадмина до руководителя центра разработки](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)
+
+05\.06\.2020[Блог](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)**,** [Интервью](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)[Читать далее](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/) 
+
+
+
+[![Евгений Минеев, исполнительный директор «Рексофт»](https://www.reksoft.ru/wp-content/uploads/2020/06/1-Copy.jpg)](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)## [Из рядового программиста в ТОП\-менеджеры. Интервью с исполнительным директором «Рексофт»](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)
+
+05\.06\.2020[Блог](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)**,** [Интервью](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)[Читать далее](https://www.reksoft.ru/blog/2020/06/05/path-to-top/) 
+
+ 
+
+
+ 
+

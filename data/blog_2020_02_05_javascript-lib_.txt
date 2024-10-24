@@ -1,0 +1,147 @@
+
+## **JavaScript: подборка полезных материалов для начинающих и опытных программистов**
+
+
+JavaScript обладает широким диапазоном возможностей, с его помощью можно создать как веб\-приложение, так и запрограммировать робота. Собрали полезные ресурсы, которые позволят новичкам освоить язык с нуля, а опытным программистам — углубить и расширить знания.
+
+
+### **Книги**
+
+
+#### **Для начинающих**
+
+
+###### **1\. Выразительный JavaScript, Марейн Хавербеке**
+
+
+![Выразительный JavaScript](https://www.reksoft.ru/wp-content/uploads/2020/02/6000018281-212x300.jpg "Выразительный JavaScript")
+
+
+Книга затрагивает фундаментальные понятия JavaScript и программирования в целом. Автор — практик, а потому предлагает изучать язык на множестве примеров, выполняя упражнения и учебные проекты.
+
+
+###### **2\. Изучаем программирование на JavaScript, Фримен Эрик, Робсон Элизабет**
+
+
+![Изучаем программирование на JavaScript](https://www.reksoft.ru/wp-content/uploads/2020/02/2-257x300.jpg "Изучаем программирование на JavaScript")
+
+
+Одна из лучших книг на русском языке для введения в тему и изучения основ языка. Написана простым языком и будет понятна тем, кто только начинает свой путь в программировании.
+
+
+#### **Для продвинутых специалистов**
+
+
+###### **1\. JavaScript. Шаблоны, Стоян Стефанов**
+
+
+![JavaScript шаблоны](https://www.reksoft.ru/wp-content/uploads/2020/02/3-211x300.jpg "JavaScript шаблоны")
+
+
+Книга описывает наиболее удачные и неудачные приемы разработки приложений на JavaScript, описывая различные шаблоны и антишаблоны программирования.
+
+
+###### **2\. JavaScript. Подробное руководство, Дэвид Флэнаган**
+
+
+![JavaScript. Подробное руководство](https://www.reksoft.ru/wp-content/uploads/2020/02/4-212x300.jpg "JavaScript. Подробное руководство")
+
+
+Это и руководство с большим количеством практических примеров и полноценный справочник по базовым понятиям. Своего рода настольная библия программиста JavaScript.
+
+
+###### **3\. JavaScript. Сильные стороны, Дуглас Крокфорд**
+
+
+![JavaScript сильные стороны](https://www.reksoft.ru/wp-content/uploads/2020/02/5-206x300.jpg "JavaScript сильные стороны")
+
+
+Автор рассказывает про сильные стороны языка и о том, как создавать эффективный и расширяемый код.
+
+
+###### **4\. Секреты JavaScript ниндзя, Джон Резиг, Беэр Бибо**
+
+
+![Секреты JavaScript ниндзя](https://www.reksoft.ru/wp-content/uploads/2020/02/6-205x300.jpg "Секреты JavaScript ниндзя")
+
+
+Книга рассказывает о разработке на JavaScript от фундаментальных понятий языка до различных профессиональных техник.
+
+
+###### **5\. JavaScript. Оптимизация производительности**
+
+
+![Оптимизация JavaScript](https://www.reksoft.ru/wp-content/uploads/2020/02/7-210x300.jpg "Оптимизация JavaScript")
+
+
+Книга описывает приемы и стратегии, которые помогут устранить узкие места, снижающие производительность, рассказывает, как ускорить выполнение и загрузку, операции с деревом DOM, работу страницы в целом и т.д.
+
+
+### **Видео**
+
+
+1. [Курс JavaScript\-джедай от Sorax](https://www.youtube.com/watch?v=H6G63NKRSi8&).
+2. [Видео\-курс по основам JavaScript от freeCodeCamp](https://proglib.io/p/js-basics/).
+3. [Видео\-курс по фреймворку Node.js](https://www.youtube.com/watch?v=ILpS4Fq3lmw&list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg).
+4. [Видео\-курс по фреймворку Angular](https://www.youtube.com/watch?v=Gl4IT4JpP4o&list=PLDyvV36pndZF-vwsVB48ivZyNJ4ETBKNY).
+5. [Видео\-курс по библиотеке для разработки пользовательских интерфейсов React.](https://www.youtube.com/watch?v=ol4OVMJZC1w&list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO)
+
+
+### **Полезные статьи**
+
+
+1. [Скрытые фичи JavaScript](https://proglib.io/p/js-hidden-features/).
+2. [Пять практических примеров](https://proglib.io/p/5-js-regex-examples/) использования регулярных выражений на JavaScript.
+3. [Символы, итераторы и другие концепции JavaScript простым языком](https://proglib.io/p/simple-js-concepts/).
+4. [Про замыкания в JavaScript.](https://proglib.io/p/js-closures-1/)
+
+
+### **Учебные материалы**
+
+
+1. [Один из самых популярных в рунете учебников по JavaScript для джуниоров](https://learn.javascript.ru/).
+2. [Еще один хороший учебник для изучения JavaScript](https://metanit.com/web/javascript/).
+3. [Справочник на английском языке](http://bonsaiden.github.io/JavaScript-Garden/), посвященный различным тонкостям JavaScript. Даются советы как избежать ошибок, рассматриваются лучшие и худшие практики.
+4. [Подборка важных тем](https://maxello.gitbooks.io/js-note/content/01_operators/index.html), которые будет полезно освежить, к примеру, перед собеседованием.
+5. [Постоянно обновляющийся учебник по Angular](https://metanit.com/web/angular2/1.1.php).
+
+
+### **Практика для джуниоров**
+
+
+1. [Каверзные вопросы и задачи по JavaScript из собеседований](https://proglib.io/p/tricky-challenges-js/).
+2. [Статья о том, где джуниору получать тестовые задания из практики](https://proglib.io/p/js-junior-tasks/).
+3. [18 видео\-уроков по практике JavaScript](https://www.youtube.com/playlist?list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki).
+4. [Разбор заданий с собеседований по JavaScript](https://www.youtube.com/watch?v=qQFJgsulLc4).
+5. [Codewars](https://www.codewars.com/) предлагает решать тренировочные задачи. Вы пишете код и зарабатываете очки опыта, если написанный код проходит тесты. После отправки ответа вам показывают решения других участников.
+
+
+[Все новости](http://https://www.reksoft.ru/media/ "Новости")
+
+
+### ЕЩЕ ПУБЛИКАЦИИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2021/08/prev.jpg)](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)## [«Только в «Рексофт» я поняла, что такое настоящая работа в режиме многозадачности»](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)
+
+09\.08\.2021[Блог](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)**,** [Интервью](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/)[Читать далее](https://www.reksoft.ru/blog/2021/08/09/mulitask-job-in-reksoft/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2020/06/hoTXBHE13T4.jpg)](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)## [Путь от сисадмина до руководителя центра разработки](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)
+
+05\.06\.2020[Блог](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)**,** [Интервью](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/)[Читать далее](https://www.reksoft.ru/blog/2020/06/05/path-of-devops/) 
+
+
+
+[![Евгений Минеев, исполнительный директор «Рексофт»](https://www.reksoft.ru/wp-content/uploads/2020/06/1-Copy.jpg)](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)## [Из рядового программиста в ТОП\-менеджеры. Интервью с исполнительным директором «Рексофт»](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)
+
+05\.06\.2020[Блог](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)**,** [Интервью](https://www.reksoft.ru/blog/2020/06/05/path-to-top/)[Читать далее](https://www.reksoft.ru/blog/2020/06/05/path-to-top/) 
+
+ 
+
+
+ 
+
