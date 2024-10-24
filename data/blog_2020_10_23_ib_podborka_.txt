@@ -1,0 +1,107 @@
+
+## **CRN: «Рексофт»: Подборка интересных инцидентов в области ИБ за сентябрь 2020**
+
+
+
+*\*Подборка включает информацию только по взломам и атакам и не учитывает инциденты по «сливам» баз данных. Материал не претендует на полноту картины всех мировых ИБ\-инцидентов. Предлагаем Вашему вниманию лишь те, которые показались специалистам «Рексофт» наиболее интересными.* 
+
+
+### **Утечка данных у** **R****azer**
+
+
+ИБ\-эксперт Боб Дьяченко обнаружил в открытом доступе базу данных интернет\-магазина Razer. Компания занимается разработкой и созданием профессионального игрового оборудования. База содержит имя клиента, адрес электронной почты, номер телефона, номера заказов, детали заказов, а также биллинговые адреса и адреса доставки.
+
+
+Спустя пару недель доступ к базе был закрыт. Эксперты отмечают, что полученные данные могут быть использованы в будущем для фишинговых атак.
+
+
+![](https://sun9-67.userapi.com/qWnu8KUGGkHMeoeMAEy31IRAARgFBhPVv9psTA/yL11J5gLcY8.jpg)
+
+
+[Источник](https://www.bleepingcomputer.com/news/security/razer-data-leak-exposes-personal-information-of-gamers/)
+
+
+### **Утечка данных у сервиса Mailfire**
+
+
+Исследователи vpnMentor обнаружили открытый сервер Elasticsearch, где база данных без пароля давала возможность получить доступ к персональным данным сотен тысяч пользователей, большая часть данных принадлежит сайтам знакомств. Объем похищенной информации — более 800 ГБ или 300 миллионов записей. В утекших данных также содержаться переписки пользователей.
+
+
+![](https://sun9-63.userapi.com/_Gb-5zczcSTb45hKayq9EZZU-BRFaSHk8iySsA/FhGsf0109w4.jpg)
+
+
+[Источник](https://www.vpnmentor.com/blog/report-mailfire-leak/)
+
+
+### **Сотрудники Microsoft по ошибке оставили в открытом доступе один из бэкэнд\-серверов своего поисковика Bing**
+
+
+ИБ\-специалист компании WizCase обнаружил бэкэнд\-сервер Bing с открытым доступным. Cервер хранил более 6,5 Тб логов мобильных приложений, содержащих 13 000 000 000 записей, полученных из поисковика.
+
+
+Microsoft исправили ошибку конфигурации сразу после уведомления и подчеркнули, что сервер содержал лишь технические детали.
+
+
+![](https://sun9-47.userapi.com/Xw2R5jUQoU5upQ2MCJ0KxrmRZHbuGK0HmDZayw/KbPSsdmrHj4.jpg)
+
+
+[Источник](https://www.wizcase.com/blog/bing-leak-research/)
+
+
+### **Компания** **ArbiterSports****, разработчик ПО для спортивных лиг, сообщила об утечке данных 540 тысяч спортивных судей**
+
+
+Согласно сентябрьскому уведомлению от ArbiterSports, официального поставщика ПО для национальной ассоциации студенческого спорта (National Collegiate Athletic Association, NCAA, стало известно, что летом этого года компания отразила атаку трояна\-вымогателя. Злоумышленникам не удалось зашифровать системы компании, но они смогли похитить резервные копии файлов. Похищенные данные содержали имена, пароли, домашние и электронные адреса, даты рождения и номера социального страхования.
+
+
+Злоумышленники потребовали выкуп за удаление похищенных ими файлов. Компания заплатила необходимую сумму и получила подтверждение, что данные действительно были удалены.
+
+
+[Источник](https://www.soccerwire.com/news/over-500000-referee-and-sports-accounts-reportedly-exposed-in-hack-of-arbitersports/)
+
+
+### **Швейцарскому производителю часов** **Swatch** **Group** **пришлось отключить свои** **IT****\-системы из\-за кибератаки**
+
+
+Компания обнаружила кибератаку на выходных и приняла решение отключить IT\-системы с целью предотвратить распространение вредоносного ПО. Пресс\-служба корпорации не уточнила, какого рода атака имела место, но можно предположить, что речь идет о заражении шифровальщиком.
+
+
+[Источник](https://www.bleepingcomputer.com/news/security/swiss-watchmaker-swatch-shuts-down-it-systems-to-stop-cyberattack/)
+
+
+**Источник: [новость на CRN](https://www.crn.ru/news/detail.php?ID=149272)**
+
+
+**Изображение: ozrimoz/Shutterstock.com**
+
+
+
+[Все новости](/news/ "Новости")[информационная безопасность](https://www.reksoft.ru/blog/tag/информационная-безопасность/)
+
+
+### ЕЩЕ НОВОСТИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/evgenij_grachev_1200.jpg)](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)## [Евгений Грачев, Рексофт: ИТ\-проекты, которые вчера казались сверхамбициозными, сегодня стали обычным делом](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)
+
+24\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)[интервью](https://www.reksoft.ru/blog/tag/интервью/)[Читать далее](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/shutterstock_2463386913-1.jpg)](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)## [Защищенная промышленная сеть передачи данных появится не раньше 2030 года](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)
+
+17\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)**,** [Рексофт Консалтинг](https://www.reksoft.ru/blog/tag/рексофт-консалтинг/)[Читать далее](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/05/photo_2024-05-29_16-59-32.jpg)](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)## [Внедрение Alarm Management на этапе строительства предприятия: где подстелить соломку](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)
+
+11\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)[Читать далее](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/) 
+
+ 
+
+
+ 
+
