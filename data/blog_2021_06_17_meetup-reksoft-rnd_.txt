@@ -1,0 +1,72 @@
+
+# Meetup «Рексофт»: «Профессиональный рост в компании по разработке ПО: мифы и реальность»
+
+
+Компания «Рексофт» (Reksoft), один из ведущих российских разработчиков цифровых решений, **1 июля в 19\.00** проведет Meetup **«Профессиональный рост в компании по разработке ПО: мифы и реальность»**. Мероприятие пройдет в Ростове\-на\-Дону в коворкинге «Рубин» ([Театральный проспект, 85, 4й этаж](https://yandex.ru/maps/org/rubin/150497442188/?ll=39.737560%2C47.234953&mode=search&sctx=ZAAAAAgAEAAaKAoSCXyh1ofNz0NAEc%2BYjT7JnkdAEhIJADhx4NM5uD8RAHxhw07Hoj8oCjgAQIrNBkgBYjRyZWFycj1zY2hlbWVfTG9jYWwvR2VvL1Bvc3RmaWx0ZXIvSXJyZWxUaHJlc2hvbGQ9MC41Yk5yZWFycj1zY2hlbWVfTG9jYWwvR2VvL1Bvc3RmaWx0ZXIvSXJyZWxGb3JtdWxhPW5ld19yZWxldmFuY2VfaXJyZWxzXzEwa183ODUxNTNiMHJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUG9zdGZpbHRlci9JcnJlbEZvb2Q9dHJ1ZWIscmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0lycmVsPXRydWVqAnJ1cACdAc3MTD2gAQCoAQC9Aa14AxDCARkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6gEA8gEA%2BAEAggIn0KLQtdCw0YLRgNCw0LvRjNC90YvQuSDQv9GA0L7QtdC30LQsIDg1igIA&sll=39.737560%2C47.234953&sspn=0.005149%2C0.001996&text=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%2085&utm_source=main_stripe_big&z=17.73)) и будет транслироваться онлайн.
+
+
+На Meetup руководители практик Java и Frontend компании «Рексофт» — Зураб Белый и Савелий Бондаренко — расскажут, чем отличаются суровые будни профессионального роста от ожиданий и обещаний. Кроме того, вы узнаете, какие инструменты используют лично они, чтобы помочь коллегам из своей команды стать лучше.
+
+
+![](https://sun9-27.userapi.com/impg/KPDjZa4VUt08-8lVI0opYrUrCuibHtB_VlVU8w/ArhNVuwxEGM.jpg?size=640x400&quality=96&sign=dba675a9313d34dc14e5d69d192a88bd&type=album)
+
+
+В ходе мероприятия обсудим:
+
+
+* как мотивировать себя и других к профессиональному росту,
+* что такое матрица компетенций и как больно ее придумывать,
+* как правильно использовать индивидуальные планы развития,
+* кому все\-таки больше выгоден профессиональный рост сотрудников: компании или самим растущим?
+
+
+Встреча будет интересна в первую очередь опытным разработчикам и их руководителям, но пользу смогут извлечь все, кто работает в IT. После доклада — традиционное обсуждение, а также легкий фуршет.
+
+
+**Будем рады вас видеть!** 
+
+
+*Просим вас зарегистрироваться для очного участия в событии**:*
+
+
+[*https://reksoft\-event.timepad.ru/event/1679915/*](https://reksoft-event.timepad.ru/event/1679915/)
+
+
+*Для тех, кто собирается присоединиться онлайн*:
+
+
+[https://reksoft.zoom.us/j/98443462767?pwd\=SmdZMEV1c2tvTGlJbnpuUjlqcThzQT09\#success](https://reksoft.zoom.us/j/98443462767?pwd=SmdZMEV1c2tvTGlJbnpuUjlqcThzQT09#success)
+
+
+*Контактное лицо для участников**:* 
+
+
+*Николай Долгов,* [*dolgov@reksoft.ru*](mailto:dolgov@reksoft.ru)*,* [*\+7 (906\) 423\-73\-42*](tel:+7%20(906)%20423-73-42)*, ТГ:* [*@nikolaydolgov*](tg://resolve?domain=@nikolaydolgov)
+
+
+ЕЩЕ НОВОСТИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/evgenij_grachev_1200.jpg)](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)## [Евгений Грачев, Рексофт: ИТ\-проекты, которые вчера казались сверхамбициозными, сегодня стали обычным делом](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)
+
+24\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)[интервью](https://www.reksoft.ru/blog/tag/интервью/)[Читать далее](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/shutterstock_2463386913-1.jpg)](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)## [Защищенная промышленная сеть передачи данных появится не раньше 2030 года](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)
+
+17\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)**,** [Рексофт Консалтинг](https://www.reksoft.ru/blog/tag/рексофт-консалтинг/)[Читать далее](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/05/photo_2024-05-29_16-59-32.jpg)](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)## [Внедрение Alarm Management на этапе строительства предприятия: где подстелить соломку](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)
+
+11\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)[Читать далее](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/) 
+
+ 
+
+
+ 
+

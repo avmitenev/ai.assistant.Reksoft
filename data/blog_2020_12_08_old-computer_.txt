@@ -1,0 +1,45 @@
+
+## **RG.RU: На свалку или еще рано? Эксперт рассказал, что делать со старым компьютером**
+
+
+Устаревание компьютера бывает моральным и техническим. В первом случае на нем еще можно работать, хотя производительность заметно снижена, во втором же это зачастую невозможно.
+
+
+Как рассказал глава ИТ\-отдела компании «Рексофт» Евгений Черток агентству [«Прайм»](https://1prime.ru/telecommunications_and_technologies/20201208/832513213.html), морально устаревшее устройство обычно рабочее, хотя от взаимодействия с ним нет никакого удовлетворения. В случае физического устаревания начинает барахлить железо — например, перестает вращаться кулер процессора, высыхает термопаста, не запускаются программы.
+
+
+Выбрасывать старый компьютер Черток не рекомендует. По его словам, его можно привести в чувство, заменив старый диск HDD на SSD, нарастив объем оперативной памяти и установив новую игровую видеокарту. Однако если старый ПК не подает признаков жизни, то высока вероятность того, что он устарел физически. В этом случае его можно отдать энтузиастам на запчасти.
+
+
+**Источник: [статья в RG.RU](https://rg.ru/2020/12/08/na-svalku-ili-eshche-rano-ekspert-rasskazal-chto-delat-so-starym-kompiuterom.html?utm_source=yxnews&utm_medium=desktop)**
+
+
+**Изображение: [Matt Benson/Unsplash.com](https://unsplash.com/photos/an-old-computer-sitting-on-the-floor-next-to-a-wall-rvfm_b1C6lc)**
+
+
+[Все новости](/news/ "Новости")### ЕЩЕ НОВОСТИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/evgenij_grachev_1200.jpg)](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)## [Евгений Грачев, Рексофт: ИТ\-проекты, которые вчера казались сверхамбициозными, сегодня стали обычным делом](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)
+
+24\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)[интервью](https://www.reksoft.ru/blog/tag/интервью/)[Читать далее](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/shutterstock_2463386913-1.jpg)](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)## [Защищенная промышленная сеть передачи данных появится не раньше 2030 года](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)
+
+17\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)**,** [Рексофт Консалтинг](https://www.reksoft.ru/blog/tag/рексофт-консалтинг/)[Читать далее](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/05/photo_2024-05-29_16-59-32.jpg)](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)## [Внедрение Alarm Management на этапе строительства предприятия: где подстелить соломку](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)
+
+11\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)[Читать далее](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/) 
+
+ 
+
+
+ 
+
