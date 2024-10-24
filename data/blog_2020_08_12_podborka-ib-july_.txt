@@ -1,0 +1,78 @@
+
+## **Аналитический центр «Рексофт»: подборка интересных инцидентов** **в области ИБ за июль 2020\***
+
+
+\*Подборка включает информацию только по взломам и атакам и не учитывает инциденты по «сливам» баз данных. Материал не претендует на полноту картины всех мировых ИБ\-инцидентов. Предлагаем Вашему вниманию лишь те, которые показались специалистам «Рексофт» наиболее интересными.
+
+
+### **Бразильская электроэнергетическая компания стала жертвой шифровальщика REvil (Sodinokibi)**
+
+
+Компания Light S.A. стала жертвой вымогателя вредоноса Sodinokibi (REvil), операторы которого потребовали с энергетической компании выкуп в размере 14 млн долларов США. Ответственной за атаку является группировка Pinchy Spider, которая ранее была замечена в распространении вымогателя GandCrab. Для заражения, скорее всего использовалась уязвимость Windows CVE\-2018\-8453\. Интересно, что злоумышленники даже организовали чат для общения с жертвой.
+
+
+![](https://sun9-72.userapi.com/-WFV3tsPxEfzjjUArCOgiJQVjB3SaaUI31FqOA/8jH9HsBUQ2M.jpg)
+
+
+![](https://sun9-52.userapi.com/DmA9Anssag4kjYUmcL612fR_OfgPBNJN9zMBDA/kH2zMpb7seo.jpg)
+
+
+[Источник](https://www.appgate.com/blog/electric-company-ransomware-attack-calls-for-14-million-in-ransom)
+
+
+### **Компания Telecom Argentina стала жертвой шифровальщика REvil (Sodinokibi)**
+
+
+По имеющейся информации было заражено около 18 000 компьютеров организации. Фиксировались сбои в работе нескольких сайтов Telecom Argentina. Злоумышленники требуют выкуп в размере 7,5 млн долларов США. Официальные представители Telecom Argentina пока не прокомментировали ситуацию, и неизвестно, намерена ли компания платить вымогателям.
+
+
+![](https://sun9-73.userapi.com/GxDY1rmDU7oS0N-BMq7jr3U0weLSjS_Aantzdg/mGK7A5gF9U0.jpg)
+
+
+[Источник](https://www.zdnet.com/article/ransomware-gang-demands-7-5-million-from-argentinian-isp/)
+
+
+### **Производитель навигационной техники и «умных» часов Garmin стал жертвой вируса\-шифровальщика**
+
+
+В разработке вируса подозревают хакерскую группу Evil Corp. Пользователи устройств Garmin не могли подключиться к своим аккаунтам, партнеры компании также оказались отключены от корпоративной системы. Кроме того, перестал обновляться сервис для пилотов\-любителей flyGarmin. Вирус WastedLocker запрашивает выкуп в 0,5\-10 млн USD. Он должен быть выплачен в биткоинах. Через 4 дня производителем было заявлено о восстановлении работы своих служб, по словам экспертов, компания смогла восстановиться после взлома в такие сжатые сроки, только в случае если она подчинилась требованиям мошенников.
+
+
+![](https://sun9-49.userapi.com/NoIp1jDOW0hispOY8OQcCRgfvw3PebHYgD5Qqw/oLwDkhzUs5c.jpg)
+
+
+Источники: [первый](https://tass.ru/obschestvo/9077841), [второй](https://newsroom.garmin.com/newsroom/press-release-details/2020/Garmin-issues-statement-on-recent-outage/default.aspx), [третий](https://www.dailymail.co.uk/news/article-8565793/Garmin-acknowledges-cyberattack-doesnt-mention-ransomware.html)
+
+
+Информационный партнер подборки: [Журнал CIS](https://cismag.ru/)
+
+
+Изображение: Gorodenkoff/Shutterstock.com
+
+
+[Все новости](/news/ "Новости")[информационная безопасность](https://www.reksoft.ru/blog/tag/информационная-безопасность/)### ЕЩЕ НОВОСТИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2022/12/shutterstock_1936608907.jpg)](https://www.reksoft.ru/blog/2024/10/21/offer-navigator/)## [Навигатор предложений: как повысить потенциал агентского канала с помощью клиентоцентричного подхода](https://www.reksoft.ru/blog/2024/10/21/offer-navigator/)
+
+21\.10\.2024[Новости](https://www.reksoft.ru/blog/2024/10/21/offer-navigator/)[Читать далее](https://www.reksoft.ru/blog/2024/10/21/offer-navigator/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2023/10/shutterstock_99905657.jpg)](https://www.reksoft.ru/blog/2024/10/21/atollis-and-reksoft-at-minex-2024/)## [«МАГМА» на МАЙНЕКС 2024: российские технологии для горной индустрии](https://www.reksoft.ru/blog/2024/10/21/atollis-and-reksoft-at-minex-2024/)
+
+21\.10\.2024[Новости](https://www.reksoft.ru/blog/2024/10/21/atollis-and-reksoft-at-minex-2024/)[mining](https://www.reksoft.ru/blog/tag/mining/)**,** [мероприятия](https://www.reksoft.ru/blog/tag/мероприятия/)[Читать далее](https://www.reksoft.ru/blog/2024/10/21/atollis-and-reksoft-at-minex-2024/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/shutterstock_2419188109.jpg)](https://www.reksoft.ru/blog/2024/10/17/quantum-computing-research/)## [Исследование «Рексофт Консалтинг»: Квантовые вычисления: взгляд в будущее](https://www.reksoft.ru/blog/2024/10/17/quantum-computing-research/)
+
+17\.10\.2024[Аналитика](https://www.reksoft.ru/blog/2024/10/17/quantum-computing-research/)**,** [Новости](https://www.reksoft.ru/blog/2024/10/17/quantum-computing-research/)**,** [Эксклюзив](https://www.reksoft.ru/blog/2024/10/17/quantum-computing-research/)[аналитика](https://www.reksoft.ru/blog/tag/аналитика/)**,** [Рексофт Консалтинг](https://www.reksoft.ru/blog/tag/рексофт-консалтинг/)[Читать далее](https://www.reksoft.ru/blog/2024/10/17/quantum-computing-research/) 
+
+ 
+
+
+ 
+
