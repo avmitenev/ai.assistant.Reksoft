@@ -1,0 +1,79 @@
+
+# CNews: Плюсы и минусы отечественных облачных платформ
+
+
+
+
+
+
+
+
+
+
+
+
+Сегодня компаниям сложно приобрести оборудование и программное обеспечение. Существует несколько вариантов решения проблемы: возвращение к расширению собственной инфраструктуры, миграция в российское облако и создание гибридного облака. О преимуществах и недостатках каждого из них, плюсах и минусах российских облачных платформ говорили участники организованной CNews Conferences конференции: **«Облака как инструмент обеспечения непрерывности бизнеса»**.
+
+
+###### **Безопасность облаков**
+
+
+Непрерывность бизнеса обеспечивается не только слаженной работой инфраструктуры, но и безопасностью, и поддержкой требований законодательства, напомнил **Артем Яговитин**, **руководитель направления цифровых продуктов «Рексофт»**. Сейчас в основе большинства решений лежат Open Source технологии, которые надо постоянно развивать. Он призвал к тесному сотрудничеству с сообществом разработчиков и подчеркнул, что при построении облака важно не опираться на решение одного вендора, чтобы не оказаться зависимым от него.
+
+
+![](https://www.reksoft.ru/wp-content/uploads/2022/09/yagovitin_artem_reksoft_2022091504_745x745.jpg)
+
+
+Проблема публичных облаков — полная зависимость от провайдера, говорит **Артем Яговитин**. Кроме того, в российских облаках не хватает инновационных сервисов, в то время как в иностранных любой разработчик может его создать и затем на нем зарабатывать.
+
+
+###### **Баланс ценности**
+
+
+![](https://filearchive.cnews.ru/img/articles/2022/09/21/risunok_4_1.png)
+
+
+**Артем Яговитин** рекомендовал использовать гибридные мультиоблака. Они обеспечивают распределение рисков, постоянное развитие продуктов, фокус на потребностях клиента и оптимальный баланс рисков и стоимости.
+
+
+**Источник: [CNews](https://www.cnews.ru/articles/2022-09-21_plyusy_i_minusy_otechestvennyh_oblachnyh)**
+
+
+**Изображение: Blackboard/Shutterstock.com**
+
+
+
+
+
+
+
+
+
+
+
+ЕЩЕ НОВОСТИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/evgenij_grachev_1200.jpg)](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)## [Евгений Грачев, Рексофт: ИТ\-проекты, которые вчера казались сверхамбициозными, сегодня стали обычным делом](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)
+
+24\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/)[интервью](https://www.reksoft.ru/blog/tag/интервью/)[Читать далее](https://www.reksoft.ru/blog/2024/10/24/evgeniy-grachev-cnewsmarket-interview/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/shutterstock_2463386913-1.jpg)](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)## [Защищенная промышленная сеть передачи данных появится не раньше 2030 года](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)
+
+17\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)**,** [Рексофт Консалтинг](https://www.reksoft.ru/blog/tag/рексофт-консалтинг/)[Читать далее](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/05/photo_2024-05-29_16-59-32.jpg)](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)## [Внедрение Alarm Management на этапе строительства предприятия: где подстелить соломку](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)
+
+11\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)[Читать далее](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/) 
+
+ 
+
+
+ 
+
