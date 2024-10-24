@@ -1,0 +1,45 @@
+
+## **CNews: «Рексофт» подписал партнерское соглашение с HCL Technologies**
+
+
+**«Рексофт» (Reksoft), один из ведущих российских разработчиков ПО, вступил в партнерскую программу HCL Technologies и получил статус Business Partner.**
+
+
+Напомним, что в июле 2019 года было объявлено о сделке по приобретению за $1,8 млрд. компанией HCL Technologies семи программных платформ IBM: Appscan, Unica, Commerce, Portal, Notes \& Domino и Connections. Теперь эти продукты будут развиваться в новом подразделении HCL Software. В договоренностях вендоров и в партнерских соглашениях закреплено, что переход продуктов к HCL не повлечет за собой существенных перемен логистики для клиентов. Все текущие контракты между клиентами и IBM будут соблюдены, обслужены и выполнены силами IBM. Новые контракты будут заключаться уже с HCL Technologies.
+
+
+«Рексофт» подписал партнерское соглашение с HCL Technologies по нескольким продуктам: Digital Commerce (для развития омниканальной электронной коммерции) и Collaboration, в которую входят платформы Notes \& Domino (средства электронной почты и быстрой разработки приложений). По условиям нового партнерского соглашения «Рексофт» получает право на продажу лицензий и оказание технической поддержки пользователям программного обеспечения HCL Technologies.
+
+
+*«Партнерство «Рексофта» с HCL Technologies особенно важно для проектов по цифровой трансформации ритейлеров, —* прокомментировал соглашение **Николай Потапов**, директор департамента развития бизнеса компании «Рексофт». *– Платформа HCL Commerce (ранее – IBM WebSphere Commerce) позволяет создавать не просто интернет\-магазины, а целостные омниканальные решения, обеспечивающие ритейлерам постоянный рост продаж через web и мобильные приложения».*
+
+
+Источник: [https://www.cnews.ru/news/line/2019\-10\-29\_reksoft\_podpisal\_partnerskoe](https://www.cnews.ru/news/line/2019-10-29_reksoft_podpisal_partnerskoe)
+
+
+[Все новости](/news/ "Новости")### ЕЩЕ ПУБЛИКАЦИИ
+
+
+ 
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/10/shutterstock_2463386913-1.jpg)](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)## [Защищенная промышленная сеть передачи данных появится не раньше 2030 года](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)
+
+17\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)**,** [Рексофт Консалтинг](https://www.reksoft.ru/blog/tag/рексофт-консалтинг/)[Читать далее](https://www.reksoft.ru/blog/2024/10/17/trusted-industrial-network-2030/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2024/05/photo_2024-05-29_16-59-32.jpg)](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)## [Внедрение Alarm Management на этапе строительства предприятия: где подстелить соломку](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)
+
+11\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/)[promauto](https://www.reksoft.ru/blog/tag/promauto/)[Читать далее](https://www.reksoft.ru/blog/2024/10/11/alarm-management-implementation/) 
+
+
+
+[![](https://www.reksoft.ru/wp-content/uploads/2022/08/R_Danilina_966x724.jpg)](https://www.reksoft.ru/blog/2024/10/10/reksoft-group-marketing-interview/)## [Галина Данилина, Рексофт: «Бизнес ожидает от маркетинга активного участия в исследовании рынка и поиске новых ниш»](https://www.reksoft.ru/blog/2024/10/10/reksoft-group-marketing-interview/)
+
+10\.10\.2024[Пресса о нас](https://www.reksoft.ru/blog/2024/10/10/reksoft-group-marketing-interview/)[интервью](https://www.reksoft.ru/blog/tag/интервью/)[Читать далее](https://www.reksoft.ru/blog/2024/10/10/reksoft-group-marketing-interview/) 
+
+ 
+
+
+ 
+
